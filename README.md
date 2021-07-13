@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uwaiseibna
 - 👀 I’m interested in Data science, ML applications in healthcare and health informatics, my latest reserach work is available at: https://link.springer.com/chapter/10.1007/978-3-030-73050-5_42
-- 🌱 I’m currently learning c++ and javascript
+- 🌱 I’m currently learning power BI and Tableau
 - 📫 email me @ uwaiseibna@icloud.com
 
 <!---
