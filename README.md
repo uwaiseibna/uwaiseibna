@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @uwaiseibna
-- 👀 I’m interested in Data science, ML applications in healthcare and health informatics, my latest reserach work is available at: [Google scholar profile](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=NCg_OuMAAAAJ)
+- 👋 Hi, I’m Uwaise Ibna Islam
+- PhD student @[FAU](https://fau.edu)
+- GRA @ [AssisGroup](https://assisgroup.fau.edu/)
+- 👀 I’m working on finding novel ML approaches in bioinformatics, my latest reserach work is available at: [Google scholar profile](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=NCg_OuMAAAAJ)
 - 📫 email me @ uwaiseibna03@gmail.com
 
 <!---
